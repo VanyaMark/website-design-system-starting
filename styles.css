@@ -1,6 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 section {
   border-radius: 15px;
   border: 1px solid gray;
   margin: 10px;
 }
 
+h1:first-child {
+  margin-left: 10px;
+  font-family: "Martel", serif;
+  font-weight: 700;
+}
