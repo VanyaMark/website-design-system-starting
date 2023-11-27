@@ -34,11 +34,6 @@ h2 {
   text-align: center;
 }
 
-h2:nth-child(4) {
-  font-family: "Poppins", sans-serif;
-  text-align: left;
-}
-
 p {
   margin-left: 16px;
 }
