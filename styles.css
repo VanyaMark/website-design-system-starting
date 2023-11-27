@@ -1,3 +1,4 @@
+/* General */
 body {
   display: flex;
   flex-direction: column;
@@ -36,6 +37,19 @@ h2:nth-child(4) {
   font-family: "Poppins", sans-serif;
 }
 
+p {
+  margin-left: 16px;
+  font-family: Poppins, sans-serif;
+}
+
+h5 {
+  margin-left: 16px;
+  font-family: Martel, serif;
+  font-weight: 200;
+  color: rgb(184, 184, 184);
+}
+
+/* Section Colors */
 .colors-container {
   display: flex;
   flex-flow: row wrap;
@@ -76,4 +90,22 @@ h2:nth-child(4) {
 
 .dark-gray {
   background-color: #212529;
+}
+
+/*Section Fonts */
+
+#fonts h4 {
+  font-family: Poppins, sans-serif;
+  letter-spacing: 0.5rem;
+  text-decoration: underline gray;
+  margin-left: 16px;
+}
+
+.light-300 {
+}
+
+.regular-400 {
+}
+
+.medium-500 {
 }
