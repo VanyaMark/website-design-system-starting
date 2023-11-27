@@ -58,6 +58,7 @@ h5 {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  padding-top: 1.5rem;
 }
 
 .color-container {
