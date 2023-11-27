@@ -65,6 +65,11 @@ h5 {
   display: flex;
   flex-flow: column wrap;
   align-items: center;
+  justify-content: center;
+}
+
+.color-container p {
+  text-align: center;
 }
 
 .color {
@@ -90,7 +95,7 @@ h5 {
 }
 
 .white {
-  border: 1px solid grey;
+  border: 1px solid rgb(184, 184, 184);
 }
 
 .dark-gray {
