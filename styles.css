@@ -39,7 +39,6 @@ h2:nth-child(4) {
 
 p {
   margin-left: 16px;
-  font-family: Poppins, sans-serif;
 }
 
 h5 {
@@ -47,6 +46,14 @@ h5 {
   font-family: Martel, serif;
   font-weight: 200;
   color: rgb(184, 184, 184);
+}
+
+.lora {
+  font-family: Lora, serif;
+}
+
+.poppins {
+  font-family: Poppins, sans-serif;
 }
 
 /* Section Colors */
@@ -95,7 +102,6 @@ h5 {
 /*Section Fonts */
 
 #fonts h4 {
-  font-family: Poppins, sans-serif;
   letter-spacing: 0.5rem;
   text-decoration: underline gray;
   margin-left: 16px;
@@ -123,4 +129,8 @@ h5 {
 
 .extrabold-800 {
   font-weight: 800;
+}
+
+.italic {
+  font-style: italic;
 }
