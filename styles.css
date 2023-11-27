@@ -142,3 +142,11 @@ h5 {
 .italic {
   font-style: italic;
 }
+
+/*Section Text Styles */
+
+.container-col {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: start;
+}
